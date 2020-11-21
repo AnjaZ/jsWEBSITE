@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "h":"Film development",
+        "style":"width:85%"
+    },
+    {
+        "id":2,
+        "h":"Resizing",
+        "style":"width:70%"
+    },
+    {
+        "id":3,
+        "h":"Shooting film",
+        "style":"width:55%"
+    },
+    {
+        "id":4,
+        "h":"Artistic ability",
+        "style":"width:85%"
+    },
+    {
+        "id":5,
+        "h":"Image manipulation",
+        "style":"width:70%"
+    },
+    {
+        "id":6,
+        "h":"Digital imaging",
+        "style":"width:90%"
+    }
+]

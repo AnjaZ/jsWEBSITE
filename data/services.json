@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"icon-basic-photo",
+        "h":"Photography",
+        "p":"Photography is a way of feeling, of touching, of loving. What you have caught on film is captured forever… It remembers little things, long after you have forgotten everything."
+    },
+    {
+        "id":2,
+        "icon":"icon-basic-keyboard",
+        "h":"Editing photos",
+        "p":"Experienced in editing any kind of images, photoshopping, retouching and branding.I am very passionate about what I do and can attest to my professionalism."
+    },
+    {
+        "id":3,
+        "icon":"ion-social-wordpress-outline",
+        "h":"WordPress",
+        "p":"I can also help with WordPress. My knowledge is not great, but but it's enough to make the site functional. With my fantastic pictures, the site can not look bad"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "tip":"ed",
+        "name":"Spéos Paris – École de photographie",
+        "what":"2-year programs",
+        "years":"2015-1017",
+        "des":"The Professional Photography in 2 years Program is aimed at students who wish to acquire all current skills and techniques within professional photography and put them into practice: photo reportage, studio photography, fashion photography, corporate photography, image management and publication."
+    },
+    {
+        "id":2,
+        "tip":"ed",
+        "name":"Bachelor of Fine Arts in Photography",
+        "what":"Masters Degree",
+        "years":"2017-",
+        "des":"Contemporary photography goes beyond the technical concerns of mastering the technique; it is about the nature, the power of the content and how it can be used, because the image is not only a tool of transmission but also an instrument of understanding."
+    },
+    {
+        "id":3,
+        "tip":"ex",
+        "name":"Join A Local Photo Walk",
+        "what":"Photo Walks are a liberating experience.",
+        "years":"2012-2015",
+        "des":"Getting together in a social event whose main purpose is photography is great, and doing it while practicing your art seems perfect to me. On photo walks, you get to experience walking the streets safely, with peers who will share with you, their vision and their goal for being there with a camera."
+    },
+    {
+        "id":4,
+        "tip":"ex",
+        "name":"Teaching Others About Photography",
+        "what":"just want some direction or advice",
+        "years":"2018-",
+        "des":" Try to encourage more people to get involved with photography. When somebody asks for advice, be a good sport and share your knowledge. Sharing is caring."
+    },
+    {
+        "id":5,
+        "tip":"ex",
+        "name":"Film",
+        "what":"filming",
+        "years":"2015-2019",
+        "des":"The most valuable experience will be when you pull your developed film, after the final rinse, off of the reel. Here’s when you see your images for the first time, in a long strip of 36 exposures. There’s nothing more beautiful than this.It makes me smile every time (except when I've been sloppy and ruined everything…damn)."
+    }
+]

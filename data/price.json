@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "h":"Portraits",
+        "amount":50,
+        "li":[
+            {
+                "id":1,
+                "text":"lighting"
+            },
+            {
+                "id":2,
+                "text":"background"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "h":"Photo shoot",
+        "amount":80,
+        "li":[
+            {
+                "id":1,
+                "text":"lighting"
+            },
+            {
+                "id":2,
+                "text":"background"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "h":"Recording",
+        "amount":100,
+        "li":[
+            {
+                "id":1,
+                "text":"lighting"
+            },
+            {
+                "id":2,
+                "text":"equipment"
+            }
+        ]
+    }
+]

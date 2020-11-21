@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "prvo":"Name:",
+        "drugo":"Anja Zubac"
+    },
+    {
+        "id":2,
+        "prvo":"Job:",
+        "drugo":"photographer"
+    },
+    {
+        "id":3,
+        "prvo":"Age:",
+        "drugo":"22"
+    },
+    {
+        "id":4,
+        "prvo":"Residence:",
+        "drugo":"Scotland "
+    },
+    {
+        "id":5,
+        "prvo":"Hometown:",
+        "drugo":"DunBroch"
+    }
+]
